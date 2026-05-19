@@ -2,7 +2,7 @@
 
 **A browser-based Active Directory penetration testing reference tool for authorized security assessments.**
 
-Live at: `https://github.com/imrooting/ADCheck/index.html`
+Live at: `https://imrooting.github.io/ADCheck/index.html`
 
 ---
 
