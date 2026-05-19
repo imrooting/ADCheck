@@ -2,7 +2,7 @@
 
 **A browser-based Active Directory penetration testing reference tool for authorized security assessments.**
 
-Live at: `https://github.ibm.com/pbhide57/AD-Network-Pentest-Validator/index.html`
+Live at: `https://github.com/imrooting/ADCheck/index.html`
 
 ---
 
